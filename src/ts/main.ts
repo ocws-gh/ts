@@ -4,6 +4,10 @@ import * as sub from './sub';
 
 console.log(sub.Sub());
 
+import * as $ from "jquery";
+
+$(() => {console.log("HAHAHA")})
+
 
 // const j = $('body');
 // $(function(){
