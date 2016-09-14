@@ -2,6 +2,7 @@
   "name": "ts_new",
   "dependencies": {},
   "globalDependencies": {
-    "jquery": "registry:dt/jquery#1.10.0+20160704162008"
+    "dw-bxslider-4": "registry:dt/dw-bxslider-4#4.2.5+20160316155526",
+    "jquery": "registry:dt/jquery#1.10.0+20160908203239"
   }
 }

@@ -12,5 +12,9 @@
     "ts-loader": "^0.8.2",
     "typings": "^1.3.3",
     "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "bxslider": "^4.2.6",
+    "jquery": "^3.1.0"
   }
 }
