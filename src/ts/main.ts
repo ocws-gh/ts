@@ -8,6 +8,14 @@ import * as $ from "jquery";
 
 $(() => {console.log("HAHAHA")})
 
+import {Slide} from "./slide";
+import "bxslider";
+$(() => {
+    let slide = new Slide();
+    slide.create();
+
+});
+
 
 // const j = $('body');
 // $(function(){
